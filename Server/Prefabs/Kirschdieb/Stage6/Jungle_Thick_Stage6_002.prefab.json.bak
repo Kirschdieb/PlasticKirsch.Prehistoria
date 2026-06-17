@@ -1,9 +1,9 @@
 {
   "version": 8,
   "blockIdVersion": 11,
-  "anchorX": 0,
-  "anchorY": 21,
-  "anchorZ": 1,
+  "anchorX": 1,
+  "anchorY": 22,
+  "anchorZ": 2,
   "blocks": [
     {
       "x": -32,
@@ -101549,7 +101549,7 @@
       "y": 42,
       "z": 15,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15
+      "filler": 1024
     },
     {
       "x": 2,
@@ -101562,7 +101562,7 @@
       "y": 44,
       "z": 15,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15
+      "filler": 1024
     },
     {
       "x": 2,
@@ -101574,7 +101574,8 @@
       "x": 2,
       "y": 46,
       "z": 15,
-      "name": "Plant_Vine_Green_Hanging"
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
     },
     {
       "x": 2,
@@ -101587,7 +101588,8 @@
       "x": 2,
       "y": 48,
       "z": 15,
-      "name": "Plant_Vine_Green_Hanging"
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
     },
     {
       "x": 2,
@@ -101600,7 +101602,8 @@
       "x": 2,
       "y": 50,
       "z": 15,
-      "name": "Plant_Vine_Green_Hanging"
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
     },
     {
       "x": 2,
@@ -101613,7 +101616,7 @@
       "y": 52,
       "z": 15,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15
+      "filler": 1024
     },
     {
       "x": 2,
@@ -101626,7 +101629,7 @@
       "y": 54,
       "z": 15,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15
+      "filler": 1024
     },
     {
       "x": 2,
@@ -101638,7 +101641,8 @@
       "x": 2,
       "y": 56,
       "z": 15,
-      "name": "Plant_Vine_Green_Hanging"
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
     },
     {
       "x": 2,
@@ -101651,14 +101655,7 @@
       "x": 2,
       "y": 58,
       "z": 15,
-      "name": "Plant_Vine_Green_Hanging"
-    },
-    {
-      "x": 2,
-      "y": 59,
-      "z": 15,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {

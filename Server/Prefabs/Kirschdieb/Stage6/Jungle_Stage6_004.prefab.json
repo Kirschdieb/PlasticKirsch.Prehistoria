@@ -2,8 +2,8 @@
   "version": 8,
   "blockIdVersion": 11,
   "anchorX": -10,
-  "anchorY": 18,
-  "anchorZ": -1,
+  "anchorY": 21,
+  "anchorZ": 0,
   "blocks": [
     {
       "x": -24,
@@ -86393,7 +86393,6 @@
       "y": 55,
       "z": -15,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -86407,7 +86406,6 @@
       "y": 57,
       "z": -15,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -86462,7 +86460,6 @@
       "y": 65,
       "z": -15,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -86476,7 +86473,6 @@
       "y": 67,
       "z": -15,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
