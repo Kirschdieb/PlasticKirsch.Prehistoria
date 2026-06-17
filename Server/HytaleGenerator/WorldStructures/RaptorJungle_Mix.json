@@ -1,0 +1,109 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [
+    {
+      "Biome": "RaptorPlains",
+      "Min": -1,
+      "Max": 0
+    },
+    {
+      "Biome": "RaptorJungle",
+      "Min": 0,
+      "Max": 1
+    }
+  ],
+  "DefaultBiome": "Basic",
+  "DefaultTransitionDistance": 32,
+  "MaxBiomeEdgeDistance": 32,
+  "Density": {
+    "Type": "Imported",
+    "Name": "Biome-Map_Raptor_Jungle"
+  },
+  "SpawnPositions": {
+    "Type": "Offset",
+    "OffsetY": 120,
+    "Positions": {
+      "Type": "Imported",
+      "Name": "Zone3-Taiga-Spawns"
+    }
+  },
+  "Framework" : [
+    {
+      "Type": "Positions",
+      "Entries": [
+        {
+          "Name": "Zone3-Taiga-Spawns",
+          "Positions": {
+            "Type": "FieldFunction",
+            "FieldFunction": {
+              "Type": "Imported",
+              "Name": "World-River-Map"
+            },
+            "Delimiters": [
+              {
+                "Min": 0.7,
+                "Max": 0.92
+              }
+            ],
+            "Positions": {
+              "Type": "FieldFunction",
+              "FieldFunction": {
+                "Type": "Imported",
+                "Name": "World-Continent-Map"
+              },
+              "Delimiters": [
+                {
+                  "Min": -2,
+                  "Max": 0
+                }
+              ],
+              "Positions": {
+                "Type": "Bound",
+                "Bounds": {
+                  "PointA": {
+                    "X": 1000,
+                    "Y": 100,
+                    "Z": 1000
+                  },
+                  "PointB": {
+                    "X": -1000,
+                    "Y": 0,
+                    "Z": -1000
+                  }
+                },
+                "Positions": {
+                  "Type": "Mesh2D",
+                  "PointGenerator": {
+                    "Type": "Mesh",
+                    "ScaleX":	40,
+                    "ScaleY":	40,
+                    "ScaleZ":	40,
+                    "Jitter": 0,
+                    "Seed": "Global-Spawns"
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Type": "DecimalConstants",
+      "Entries": [
+        {
+          "Name": "Base",
+          "Value": 100
+        },
+        {
+          "Name": "Water",
+          "Value": 100
+        },
+        {
+          "Name": "Bedrock",
+          "Value": 0
+        }
+      ]
+    }
+  ]
+}
