@@ -1,0 +1,69 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Grass_Lush.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Grass_Lush_Prehistoric.png",
+  "Categories": [
+    "Blocks.Plants"
+  ],
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Blocks/Foliage/Plants/Cross_17px.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Cross_17px_Textures/Grassplant_Lush_GS.png",
+        "Weight": 1
+      }
+    ],
+    "PlacementSettings": {
+      "AllowBreakReplace": true
+    },
+    "Opacity": "Transparent",
+    "Effect": [
+      "WindFractal"
+    ],
+    "HitboxType": "Plant_Small",
+    "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
+      "Soft": {
+        "DropList": "Empty"
+      },
+      "UseDefaultDropWhenPlaced": true
+    },
+    "RandomRotation": "YawStep1",
+    "BlockParticleSetId": "Grass",
+    "BlockSoundSetId": "Plant",
+    "PhysicalMaterialId": "Foliage",
+    "TextureComputedColor": "#DEDFE0"
+  },
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Grass"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Foliage",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}
