@@ -1,0 +1,32 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Fern.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Fern_Prehistoric.png",
+  "Parent": "Plant_Grass_Lush",
+  "BlockType": {
+    "ParticleColor": "#498b30",
+    "CustomModel": "Blocks/Foliage/Plants/Fern_Small.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Fern_Small_Green.png",
+        "Weight": 1
+      }
+    ],
+    "Tint": [],
+    "HitboxType": "Plant_Large",
+    "TextureComputedColor": "#3F7D2B"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

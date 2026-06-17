@@ -1,0 +1,31 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Leaves_Palm_Oasis.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Palm_Prehistoric.png",
+  "Parent": "Plant_Grass_Lush_Prehistoric",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Palm_Giant.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Palm_Giant_Prehistoric.png",
+        "Weight": 1
+      }
+    ],
+    "RandomRotation": "YawStep1",
+    "ParticleColor": "#206509",
+    "TextureComputedColor": "#39581A"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}
