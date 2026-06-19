@@ -1146,7 +1146,7 @@
       "x": -1,
       "y": 4,
       "z": 1,
-      "name": "Deco_Scarak_Eggsacks"
+      "name": "Deco_Raptor_Eggs"
     },
     {
       "x": -1,
@@ -1518,8 +1518,7 @@
       "x": 0,
       "y": 4,
       "z": -1,
-      "name": "Plant_Bush_Arid_Sharp",
-      "support": 15
+      "name": "Plant_Petals_White"
     },
     {
       "x": 0,
@@ -1573,7 +1572,7 @@
       "x": 0,
       "y": 4,
       "z": 0,
-      "name": "Deco_Scarak_Eggsacks"
+      "name": "Deco_Raptor_Eggs"
     },
     {
       "x": 0,
@@ -1675,7 +1674,7 @@
       "x": 0,
       "y": 4,
       "z": 2,
-      "name": "Deco_Scarak_Eggsacks"
+      "name": "Deco_Raptor_Eggs"
     },
     {
       "x": 0,
@@ -2014,8 +2013,7 @@
       "x": 1,
       "y": 4,
       "z": 0,
-      "name": "Plant_Leaves_Jungle_Floor",
-      "support": 15
+      "name": "Plant_Petals_White"
     },
     {
       "x": 1,
@@ -2069,7 +2067,7 @@
       "x": 1,
       "y": 4,
       "z": 1,
-      "name": "Deco_Scarak_Eggsacks"
+      "name": "Deco_Raptor_Eggs"
     },
     {
       "x": 1,
