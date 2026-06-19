@@ -2,7 +2,7 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome": "RaptorPlains",
+      "Biome": "RaptorBog",
       "Min": -1,
       "Max": 0
     },
