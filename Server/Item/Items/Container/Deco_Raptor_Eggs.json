@@ -1,0 +1,100 @@
+{
+  "TranslationProperties": {
+    "Name": "Raptor Eggs"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Raptor_Eggs.png",
+  "Categories": [
+    "Items"
+  ],
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Blocks/Dungeons/EggSacks_Scarak_Medium.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Weight": 1,
+        "Texture": "Blocks/RaptorEggs/Eggs_Raptor_Texture2.png"
+      }
+    ],
+    "VariantRotation": "DoublePipe",
+    "Material": "Solid",
+    "InteractionHint": "server.interactionHints.burst",
+    "Interactions": {
+      "Use": {
+        "Interactions": [
+          "Block_Raptor_Eggs_Burst"
+        ]
+      },
+      "CollisionEnter": {
+        "Interactions": [
+          "Block_Raptor_Eggs_Burst"
+        ]
+      }
+    },
+    "State": {
+      "Definitions": {
+        "On": {
+          "AmbientSoundEventId": "SFX_Eggsac_Active"
+        },
+        "Off": {
+          "InteractionHint": "",
+          "HitboxType": "Block_Half",
+          "AmbientSoundEventId": null,
+          "CustomModelAnimation": null,
+          "CustomModel": "Blocks/Dungeons/EggSacks_Scarak_Medium_Hatched.blockymodel",
+          "CustomModelTexture": [
+            {
+              "Weight": 1,
+              "Texture": "Blocks/RaptorEggs/Eggs_Raptor_Texture2.png"
+            }
+          ],
+          "Gathering": {
+            "Soft": {
+              "DropList": {}
+            }
+          }
+        }
+      }
+    },
+    "ParticleColor": "#c5c6a5",
+    "HitboxType": "Full",
+    "Opacity": "Transparent",
+    "Flags": {},
+    "RandomRotation": "YawStep1",
+    "Gathering": {
+      "Soft": {}
+    },
+    "BlockParticleSetId": "Stone",
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "CustomModelAnimation": "Blocks/Dungeons/EggSacks_Scarak_Medium_Idle.blockyanim",
+    "BlockSoundSetId": "Cocoon",
+    "PhysicalMaterialId": "Foliage",
+    "AmbientSoundEventId": "SFX_Eggsac_Active",
+    "Looping": true,
+    "TextureComputedColor": "#53523f"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}
