@@ -93,7 +93,8 @@
         }
       }
     },
-    "TextureComputedColor": "#262832"
+    "TextureComputedColor": "#262832",
+    "CustomModelScale": 0.8
   },
   "Tags": {
     "Type": [

@@ -4,7 +4,7 @@
   },
   "ItemLevel": 10,
   "MaxStack": 100,
-  "Icon": "Icons/ItemsGenerated/Build_Tube_Green.png",
+  "Icon": "Icons/ItemsGenerated/Build_Tube_Sprout.png",
   "Categories": [
     "Tool.TechnicalBlocks"
   ],
@@ -56,10 +56,10 @@
     "ParticleColor": "#1a1a1a",
     "BlockSoundSetId": "Soft",
     "PhysicalMaterialId": "Wool",
-    "CustomModel": "Blocks/Foliage/Coral_Tubes_Green.blockymodel",
+    "CustomModel": "Blocks/Foliage/Coral_Tubes_Sprout.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Foliage/Coral_Tubes_Green_Texture.png",
+        "Texture": "Blocks/Foliage/Coral_Tubes_Sprout_Texture.png",
         "Weight": 1
       }
     ],
@@ -94,7 +94,7 @@
       }
     },
     "TextureComputedColor": "#262832",
-    "CustomModelScale": 1
+    "CustomModelScale": 0.75
   },
   "Tags": {
     "Type": [

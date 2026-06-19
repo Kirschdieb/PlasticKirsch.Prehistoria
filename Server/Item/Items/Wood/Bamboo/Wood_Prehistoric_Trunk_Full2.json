@@ -1,0 +1,34 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Wood_Bamboo_Trunk_Full.name"
+  },
+  "Parent": "Wood_Bamboo_Trunk",
+  "Icon": "Icons/ItemsGenerated/Wood_Bamboo_Trunk_Full_Prehistoric2.png",
+  "Categories": [
+    "Blocks.Wood"
+  ],
+  "SubCategory": "Trees",
+  "Set": "Wood_Bamboo",
+  "BlockType": {
+    "Textures": [
+      {
+        "Weight": 1,
+        "Sides": "Blocks/Wood/Wood_Trunk_Bamboo_Prehistoric3.png",
+        "UpDown": "BlockTextures/Wood_Trunk_Bamboo_Full.png"
+      }
+    ],
+    "TextureComputedColor": "#8DA15E"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

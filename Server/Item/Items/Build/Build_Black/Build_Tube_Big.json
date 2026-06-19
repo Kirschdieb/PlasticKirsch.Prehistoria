@@ -4,7 +4,7 @@
   },
   "ItemLevel": 10,
   "MaxStack": 100,
-  "Icon": "Icons/ItemsGenerated/Build_Tube_Green.png",
+  "Icon": "Icons/ItemsGenerated/Build_Tube_Big.png",
   "Categories": [
     "Tool.TechnicalBlocks"
   ],
@@ -94,7 +94,7 @@
       }
     },
     "TextureComputedColor": "#262832",
-    "CustomModelScale": 1
+    "CustomModelScale": 1.5
   },
   "Tags": {
     "Type": [
