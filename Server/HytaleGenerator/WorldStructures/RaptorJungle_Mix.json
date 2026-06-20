@@ -27,7 +27,7 @@
       "Name": "Zone3-Taiga-Spawns"
     }
   },
-  "Framework" : [
+  "Framework": [
     {
       "Type": "Positions",
       "Entries": [
@@ -75,9 +75,9 @@
                   "Type": "Mesh2D",
                   "PointGenerator": {
                     "Type": "Mesh",
-                    "ScaleX":	40,
-                    "ScaleY":	40,
-                    "ScaleZ":	40,
+                    "ScaleX": 40,
+                    "ScaleY": 40,
+                    "ScaleZ": 40,
                     "Jitter": 0,
                     "Seed": "Global-Spawns"
                   }
