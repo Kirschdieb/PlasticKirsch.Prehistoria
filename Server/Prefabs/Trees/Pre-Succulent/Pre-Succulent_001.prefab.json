@@ -1,0 +1,106 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Build_Flower_Violet",
+      "rotation": 7
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Build_Flower_Violet",
+      "rotation": 6
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Build_Tube_Giant"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Build_Tube_Big"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Build_Flower_Violet"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Build_Flower_Violet",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Build_Flower_Violet",
+      "rotation": 5
+    }
+  ],
+  "fluids": [
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}
