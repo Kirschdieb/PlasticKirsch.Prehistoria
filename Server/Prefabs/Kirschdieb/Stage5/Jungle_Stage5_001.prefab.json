@@ -10470,12 +10470,6 @@
     },
     {
       "x": -3,
-      "y": 28,
-      "z": 8,
-      "name": "Plant_Leaves_Beech_Max_Support"
-    },
-    {
-      "x": -3,
       "y": 30,
       "z": 8,
       "name": "Plant_Leaves_Beech_Max_Support"
@@ -12744,133 +12738,133 @@
     },
     {
       "x": -2,
-      "y": 9,
-      "z": 8,
-      "name": "Plant_Vine_Green_Hanging"
-    },
-    {
-      "x": -2,
       "y": 10,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
-      "filler": 1024
+      "name": "Plant_Vine_Hanging"
     },
     {
       "x": -2,
       "y": 11,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging"
+      "name": "Plant_Vine_Hanging",
+      "support": 15
     },
     {
       "x": -2,
       "y": 12,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
-      "filler": 1024
+      "name": "Plant_Vine_Hanging"
     },
     {
       "x": -2,
       "y": 13,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging"
+      "name": "Plant_Vine_Hanging",
+      "support": 15
     },
     {
       "x": -2,
       "y": 14,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
-      "filler": 1024
+      "name": "Plant_Vine_Hanging"
     },
     {
       "x": -2,
       "y": 15,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
+      "name": "Plant_Vine_Hanging",
       "support": 15
     },
     {
       "x": -2,
       "y": 16,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
-      "filler": 1024
+      "name": "Plant_Vine_Hanging"
     },
     {
       "x": -2,
       "y": 17,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
-      "support": 15
+      "name": "Plant_Vine_Hanging",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -2,
       "y": 18,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
-      "filler": 1024
+      "name": "Plant_Vine_Hanging"
     },
     {
       "x": -2,
       "y": 19,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging"
+      "name": "Plant_Vine_Hanging",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -2,
       "y": 20,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
-      "filler": 1024
+      "name": "Plant_Vine_Hanging"
     },
     {
       "x": -2,
       "y": 21,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging"
+      "name": "Plant_Vine_Hanging",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -2,
       "y": 22,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
-      "filler": 1024
+      "name": "Plant_Vine_Hanging"
     },
     {
       "x": -2,
       "y": 23,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging"
+      "name": "Plant_Vine_Hanging",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -2,
       "y": 24,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
-      "filler": 1024
+      "name": "Plant_Vine_Hanging"
     },
     {
       "x": -2,
       "y": 25,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
-      "support": 15
+      "name": "Plant_Vine_Hanging",
+      "support": 15,
+      "rotation": 1
     },
     {
       "x": -2,
       "y": 26,
       "z": 8,
-      "name": "Plant_Vine_Green_Hanging",
-      "filler": 1024
+      "name": "Plant_Vine_Hanging"
+    },
+    {
+      "x": -2,
+      "y": 27,
+      "z": 8,
+      "name": "Plant_Vine_Hanging",
+      "support": 15,
+      "rotation": 3
     },
     {
       "x": -2,
       "y": 28,
       "z": 8,
-      "name": "Wood_Gumboab_Trunk_Full"
+      "name": "Wood_Gumboab_Trunk_Full",
+      "support": 15
     },
     {
       "x": -2,

@@ -1,9 +1,9 @@
 {
   "version": 8,
   "blockIdVersion": 11,
-  "anchorX": 2,
-  "anchorY": 23,
-  "anchorZ": -10,
+  "anchorX": 3,
+  "anchorY": 24,
+  "anchorZ": -9,
   "blocks": [
     {
       "x": -25,
@@ -22146,7 +22146,6 @@
       "y": 32,
       "z": 17,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -22160,7 +22159,6 @@
       "y": 34,
       "z": 17,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -22215,7 +22213,6 @@
       "y": 42,
       "z": 17,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -22229,7 +22226,6 @@
       "y": 44,
       "z": 17,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -33932,7 +33928,6 @@
       "y": 30,
       "z": -16,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -33946,7 +33941,6 @@
       "y": 32,
       "z": -16,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -34001,7 +33995,6 @@
       "y": 40,
       "z": -16,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -34015,7 +34008,6 @@
       "y": 42,
       "z": -16,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -111829,7 +111821,7 @@
       "x": 14,
       "y": 53,
       "z": -18,
-      "name": "Wood_Jungle_Trunk_Full",
+      "name": "Wood_Gumboab_Trunk_Full",
       "support": 15,
       "rotation": 5
     },
@@ -111837,14 +111829,14 @@
       "x": 14,
       "y": 54,
       "z": -18,
-      "name": "Wood_Jungle_Trunk_Full",
+      "name": "Wood_Gumboab_Trunk_Full",
       "support": 15
     },
     {
       "x": 14,
       "y": 55,
       "z": -18,
-      "name": "Wood_Jungle_Trunk_Full",
+      "name": "Wood_Gumboab_Trunk_Full",
       "support": 15
     },
     {
@@ -113653,7 +113645,7 @@
       "x": 15,
       "y": 53,
       "z": -18,
-      "name": "Wood_Jungle_Trunk_Full",
+      "name": "Wood_Gumboab_Trunk_Full",
       "support": 15,
       "rotation": 5
     },
@@ -114598,7 +114590,6 @@
       "y": 32,
       "z": 4,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -114612,7 +114603,6 @@
       "y": 34,
       "z": 4,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -114667,7 +114657,6 @@
       "y": 42,
       "z": 4,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {
@@ -114681,7 +114670,6 @@
       "y": 44,
       "z": 4,
       "name": "Plant_Vine_Green_Hanging",
-      "support": 15,
       "filler": 1024
     },
     {

@@ -46,7 +46,7 @@
     },
     "BlockParticleSetId": "Leaves",
     "ParticleColor": "#4b8519",
-    "MaxSupportDistance": 14,
+    "MaxSupportDistance": 8,
     "Support": {
       "BlockSides": [
         {
