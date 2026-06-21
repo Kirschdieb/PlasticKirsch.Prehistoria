@@ -1,0 +1,30 @@
+{
+  "Parent": "Snake_Marsh",
+  "Model": "NPC/Beast/Snake/Models/Model.blockymodel",
+  "Texture": "NPC/Beast/Snake/Models/Model_Textures/Cobra.png",
+  "DefaultAttachments": [
+    {
+      "Model": "NPC/Beast/Snake/Models/Attachments/Hood.blockymodel",
+      "Texture": "NPC/Beast/Snake/Models/Attachments/Hood_Cobra.png"
+    },
+    {
+      "Model": "NPC/Beast/Snake/Models/Attachments/Tail.blockymodel",
+      "Texture": "NPC/Beast/Snake/Models/Attachments/Tail_Cobra.png"
+    }
+  ],
+  "Icon": "Icons/ModelsGenerated/Snake_Cobra.png",
+  "MinScale": 3,
+  "MaxScale": 5,
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -75
+    ]
+  }
+}
