@@ -1098,10 +1098,10 @@
 			}
 		}],
 	"EnvironmentProvider":	{
-		"$NodeId":	"Constant.EnvironmentProvider-9d435dc0-ffa2-4de6-886d-c6e8b54f3b44",
+		"$NodeId":	"Constant.EnvironmentProvider-66e88f00-869b-4354-8430-4f573950e654",
 		"Type":	"Constant",
 		"Skip":	false,
-		"Environment":	"Env_Zone4_Jungles"
+		"Environment":	"Env_Zone4_Bog"
 	},
 	"TintProvider":	{
 		"$NodeId":	"DensityDelimited.TintProvider-67fa6b5d-db2a-4b4f-b574-7f867f764823",
@@ -2167,6 +2167,18 @@
 					"$y":	3270
 				}
 			},
+			"Runtime-2ca0c7ab-e8c7-4b73-a0ce-6b367a27a8d9":	{
+				"$Position":	{
+					"$x":	13097,
+					"$y":	2712
+				}
+			},
+			"Imported.PropDistribution-2a4d89d4-8e5e-4484-9978-0b3c4abfe78f":	{
+				"$Position":	{
+					"$x":	13741,
+					"$y":	2868
+				}
+			},
 			"Runtime-f9b9b6f2-cd85-4cb5-8af9-84e4fc9d5f95":	{
 				"$Position":	{
 					"$x":	-3178,
@@ -2399,6 +2411,18 @@
 				"$Position":	{
 					"$x":	285,
 					"$y":	3739
+				}
+			},
+			"Runtime-a9c5f45d-d68f-46d2-ba92-70f0e57a8c17":	{
+				"$Position":	{
+					"$x":	13038,
+					"$y":	3308
+				}
+			},
+			"Imported.PropDistribution-74140016-4111-4a27-85e5-40608c77cf6a":	{
+				"$Position":	{
+					"$x":	13731,
+					"$y":	3470
 				}
 			},
 			"Constant.EnvironmentProvider-9d435dc0-ffa2-4de6-886d-c6e8b54f3b44":	{
@@ -3972,33 +3996,14 @@
 					"$x":	-5052,
 					"$y":	-3423
 				}
-			},
-			"Runtime-2ca0c7ab-e8c7-4b73-a0ce-6b367a27a8d9":	{
-				"$Position":	{
-					"$x":	13097,
-					"$y":	2712
-				}
-			},
-			"Runtime-a9c5f45d-d68f-46d2-ba92-70f0e57a8c17":	{
-				"$Position":	{
-					"$x":	13038,
-					"$y":	3308
-				}
-			},
-			"Imported.PropDistribution-2a4d89d4-8e5e-4484-9978-0b3c4abfe78f":	{
-				"$Position":	{
-					"$x":	13741,
-					"$y":	2868
-				}
-			},
-			"Imported.PropDistribution-74140016-4111-4a27-85e5-40608c77cf6a":	{
-				"$Position":	{
-					"$x":	13731,
-					"$y":	3470
-				}
 			}
 		},
 		"$FloatingNodes":	[{
+				"$NodeId":	"Constant.EnvironmentProvider-9d435dc0-ffa2-4de6-886d-c6e8b54f3b44",
+				"Type":	"Constant",
+				"Skip":	false,
+				"Environment":	"Env_Zone4_Jungles"
+			}, {
 				"$NodeId":	"WeightedPath.Prefab.Prop-b53d6af1-c20a-4e58-aa21-a636679e4e7f",
 				"Path":	"Rock_Formations/Rocks/Stone/Small",
 				"Weight":	0.1
@@ -5244,11 +5249,6 @@
 				"Type":	"Constant",
 				"Skip":	false,
 				"Color":	"#5b9e28"
-			}, {
-				"$NodeId":	"Constant.EnvironmentProvider-66e88f00-869b-4354-8430-4f573950e654",
-				"Type":	"Constant",
-				"Skip":	false,
-				"Environment":	"Env_Zone4_Bog"
 			}],
 		"$Links":	{
 		},

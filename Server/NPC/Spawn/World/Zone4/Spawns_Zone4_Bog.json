@@ -1,0 +1,46 @@
+{
+  "Environments": [
+    "Env_Zone4_Bog"
+  ],
+  "NPCs": [
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Gecko"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Frog_Green"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Lizard_Sand"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Catfish"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil",
+      "Id": "Snake_Cobra"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil",
+      "Id": "Toad_Rhino"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Crocodile"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

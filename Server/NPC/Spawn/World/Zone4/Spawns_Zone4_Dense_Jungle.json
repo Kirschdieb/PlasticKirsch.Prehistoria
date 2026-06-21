@@ -1,0 +1,36 @@
+{
+  "Environments": [
+    "Env_Zone4_Dense_Jungle"
+  ],
+  "NPCs": [
+    {
+      "Weight": 1,
+      "SpawnBlockSet": "Soil",
+      "Id": "Rex_Cave"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Raptor_Cave"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Snapdragon"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Pterodactyl"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Spider_Cave"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}
