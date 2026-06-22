@@ -1,9 +1,9 @@
 {
   "InstanceId": "Prehistoria",
   "Description": {
-    "DisplayName": "server.portals.jungles",
-    "FlavorText": "server.portals.jungles.description",
-    "ThemeColor": "#23970cec",
+    "DisplayName": "Prehistoria",
+    "FlavorText": "A prehistoric world older than civilisation, ruled entirely by dinosaurs and other reptiles.",
+    "ThemeColor": "#ebebeb",
     "SplashImage": "DefaultArtwork.png"
   }
 }

@@ -9,7 +9,7 @@
   ],
   "PortalKey": {
     "PortalType": "Prehistoria",
-    "TimeLimitSeconds": 720
+    "TimeLimitSeconds": 3600
   },
   "BlockType": {
     "DrawType": "Model",
