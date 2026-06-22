@@ -1,5 +1,10 @@
 {
   "SpawnDensity": 1,
+  "Tags": {
+    "Zone4": [
+      "Jungles"
+    ]
+  },
   "WeatherForecasts": {
     "0": [
       {
