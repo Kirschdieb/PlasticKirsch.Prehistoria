@@ -1,0 +1,9 @@
+{
+  "InstanceId": "Prehistoria",
+  "Description": {
+    "DisplayName": "server.portals.jungles",
+    "FlavorText": "server.portals.jungles.description",
+    "ThemeColor": "#23970cec",
+    "SplashImage": "DefaultArtwork.png"
+  }
+}

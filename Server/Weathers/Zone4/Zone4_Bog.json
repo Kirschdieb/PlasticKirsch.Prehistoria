@@ -199,7 +199,7 @@
   ],
   "FogDistance": [
     -224,
-    160
+    500
   ],
   "SunScales": [
     {
@@ -403,5 +403,121 @@
     "Color": "#ff57b4",
     "Scale": 3
   },
+  "FogHeightFalloffs": [
+    {
+      "Hour": 0,
+      "Value": 9
+    },
+    {
+      "Hour": 1,
+      "Value": 9
+    },
+    {
+      "Hour": 2,
+      "Value": 9
+    },
+    {
+      "Hour": 3,
+      "Value": 9
+    },
+    {
+      "Hour": 4,
+      "Value": 9
+    },
+    {
+      "Hour": 5,
+      "Value": 9
+    },
+    {
+      "Hour": 6,
+      "Value": 9
+    },
+    {
+      "Hour": 7,
+      "Value": 9
+    },
+    {
+      "Hour": 8,
+      "Value": 9
+    },
+    {
+      "Hour": 9,
+      "Value": 9
+    },
+    {
+      "Hour": 10,
+      "Value": 9
+    },
+    {
+      "Hour": 11,
+      "Value": 9
+    },
+    {
+      "Hour": 12,
+      "Value": 9
+    },
+    {
+      "Hour": 13,
+      "Value": 9
+    },
+    {
+      "Hour": 14,
+      "Value": 9
+    },
+    {
+      "Hour": 15,
+      "Value": 9
+    },
+    {
+      "Hour": 16,
+      "Value": 9
+    },
+    {
+      "Hour": 17,
+      "Value": 9
+    },
+    {
+      "Hour": 18,
+      "Value": 9
+    },
+    {
+      "Hour": 19,
+      "Value": 9
+    },
+    {
+      "Hour": 20,
+      "Value": 9
+    },
+    {
+      "Hour": 21,
+      "Value": 9
+    },
+    {
+      "Hour": 22,
+      "Value": 9
+    },
+    {
+      "Hour": 23,
+      "Value": 9
+    }
+  ],
+  "FogDensities": [
+    {
+      "Hour": 5,
+      "Value": 0.85
+    },
+    {
+      "Hour": 17,
+      "Value": 0.85
+    },
+    {
+      "Hour": 19,
+      "Value": 0.9
+    },
+    {
+      "Hour": 3,
+      "Value": 0.9
+    }
+  ],
   "SunlightColors": null
 }
